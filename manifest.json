@@ -1,13 +1,8 @@
 {
-    "mainfest_version": 3,
+    "manifest_version": 3,
     "name": "Terms and Conditions Summarizer",
     "version": "1.0",
-    "descriptions": "Chrome extension that calls a custom GPT to summarize a terms and conditions document",
-    "icons": {
-        "16": "",
-        "48": "",
-        "128": ""
-    },
+    "description": "Chrome extension that calls a custom GPT to summarize a terms and conditions document",
     "background": {
         "service_worker": "background.js"
     },
